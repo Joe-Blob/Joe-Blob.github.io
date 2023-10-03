@@ -2,7 +2,6 @@ folder:
   - _Archive
   - Ressource
 files:
-  - index
   - CNAME
   - README
   - tag
