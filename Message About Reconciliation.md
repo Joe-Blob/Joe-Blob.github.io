@@ -1,6 +1,7 @@
 ---  
 dg-publish: true  
 dg-updated: true  
+dg-home: true  
 share: true  
 #Notes  
 ---  
